@@ -1,0 +1,36 @@
+_repo: The-House-of-Mystery--13-An-Episode-in-the-Career-of-Rosalie-Le-Grange-Clairvoyant_12678
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Yohn, F. C. (Frederick Coffay)
+    alias: Yohn, Frederick Coffay
+    birthdate: 1875
+    deathdate: 1933
+    gutenberg_agent_id: '26457'
+    url: http://www.gutenberg.org/2009/agents/26457
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_Coffay_Yohn
+creator:
+  author:
+    agent_name: Irwin, Will
+    alias: Irwin, William Henry
+    birthdate: 1873
+    deathdate: 1948
+    gutenberg_agent_id: '26707'
+    url: http://www.gutenberg.org/2009/agents/26707
+    wikipedia: http://en.wikipedia.org/wiki/William_Henry_Irwin
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12678'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Clairvoyants -- Fiction'
+- !lcsh 'Detective and mystery stories'
+- GITenberg
+title: "The House of Mystery\r\nAn Episode in the Career of Rosalie Le Grange, Clairvoyant"
+url: http://www.gutenberg.org/ebooks/12678
