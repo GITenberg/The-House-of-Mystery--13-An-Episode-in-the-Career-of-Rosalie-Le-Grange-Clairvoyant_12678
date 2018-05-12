@@ -1,5 +1,5 @@
 _repo: The-House-of-Mystery--13-An-Episode-in-the-Career-of-Rosalie-Le-Grange-Clairvoyant_12678
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Yohn, F. C. (Frederick Coffay)
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '26457'
     url: http://www.gutenberg.org/2009/agents/26457
     wikipedia: http://en.wikipedia.org/wiki/Frederick_Coffay_Yohn
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Irwin, Will
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26707
     wikipedia: http://en.wikipedia.org/wiki/William_Henry_Irwin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12678#The-House-of-Mystery--13-An-Episode-in-the-Career-of-Rosalie-Le-Grange-Clairvoyant
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
 identifiers:
